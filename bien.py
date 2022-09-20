@@ -1,6 +1,6 @@
 #variable(bien)
 #khai bao bien
-tuoi =17
+tuoi =1788888
 ten ="minh hoan"
 pi =3.14
 
